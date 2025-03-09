@@ -1,0 +1,4 @@
+# Config for Edge Functions
+[functions]
+[functions.generate-character-image]
+verify_jwt = false
